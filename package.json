@@ -1,0 +1,15 @@
+{
+  "name": "Node_Gostack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chalfel/Node_Gostack.git",
+  "author": "CaioFelix <caio.felix@icarotech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "nodemon run index.js"
+  }
+}
